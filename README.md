@@ -45,10 +45,6 @@
 
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=khoadodox17&theme=gruvbox&hide_border=true&area=true)
-
-
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
