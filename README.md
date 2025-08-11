@@ -3,21 +3,20 @@
 
 ### Hi there, I'm Kai 👋
 
-<img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
 
 [![GitHub followers](https://img.shields.io/github/followers/khoadodox17.svg?style=social&label=Followers)](https://github.com/khoadodox17?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Kai!;I'm+a+Software+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+Vietnamese)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=7AF79A&size=30&lines=Hey!+It's+Kai!;I'm+a+Software+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+Vietnamese)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=khoadodox17&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently interested in distributed system.
+- 🔭 I’m currently diving into distributed system.
 - 🌱 I've 1+ year of professional experience working on scalable event-driven system and microservices.
-- 🤖 Also a keen AI enthusiast.
-- 👯 I’m looking to collaborate on Software Engineer, Machine Learning and Deep Learning Projects
-- 💬 Ask me about Programming or Machine Learning
+- 🤖 Also a keen AI enthusiast and looking forward to building cool projects.
+- 👯 I’m seeking opportunity for Software Engineer, Machine Learning and Deep Learning.
+- 💬 Ask me about Programming or Machine Learning.
 - 📫 I am also a technical blogger.
 
 <p>Connect with me on
